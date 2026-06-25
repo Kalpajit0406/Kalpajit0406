@@ -1,6 +1,6 @@
-![header](assets/photo.jpg)
-===
-
+<p align="center">
+  <img src="assets/photo.png" alt="header" width="100%">
+</p>
 
 <h1 align="center">Kalpajit Bepary</h1>
 <p align="center">
