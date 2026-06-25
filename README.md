@@ -9,20 +9,28 @@ Developer · Student · Kolkata, India
 
 ---
 
-## About me
-
-<img align="right" width="40%" src="https://github.com/Kalpajit0406.png">
-
-Engineering student at **St. Xavier's University, Kolkata**.
-
-A builder here! Passionate about building software, math utilities, and interactive simulations.
-
-Contact me on:
-- Gmail: [kalpajitbepary@gmail.com](mailto:kalpajitbepary@gmail.com)
-- GitHub: [Kalpajit0406](https://github.com/Kalpajit0406)
-
----
-
-### 🎥 [Watch Spotlight Video](assets/video.mp4)
-
-[![Spotlight Video](assets/video.jpg)](assets/video.mp4)
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h2>About me</h2>
+      <p>Engineering student at <strong>Techno India University, Newtown</strong>.</p>
+      <p>A builder here! Passionate about building software, math utilities, and interactive simulations.</p>
+      <h3>🛠️ Previous Projects</h3>
+      <ul>
+        <li><strong><a href="https://github.com/Kalpajit0406/math-app-backend">math-app-backend</a></strong>: Backend services for math app.</li>
+        <li><strong><a href="https://github.com/Kalpajit0406/MathswithSD">MathswithSD</a></strong>: Interactive math platform.</li>
+        <li><strong><a href="https://github.com/Kalpajit0406/Mathswithsd_admin">Mathswithsd_admin</a></strong>: Admin console for math platform.</li>
+        <li><strong><a href="https://github.com/Kalpajit0406/Simulation_main-main">Simulation_main-main</a></strong>: Physics and mathematics simulation project.</li>
+        <li><strong><a href="https://github.com/Kalpajit0406/steller-challenge">steller-challenge</a></strong>: Stellar challenge submission.</li>
+      </ul>
+      <h3>📬 Contact me</h3>
+      <ul>
+        <li>Gmail: <a href="mailto:kalpajitbepary@gmail.com">kalpajitbepary@gmail.com</a></li>
+        <li>GitHub: <a href="https://github.com/Kalpajit0406">@Kalpajit0406</a></li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="assets/video.gif" width="100%" alt="Spotlight Video">
+    </td>
+  </tr>
+</table>
