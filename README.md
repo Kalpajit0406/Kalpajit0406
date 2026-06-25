@@ -19,7 +19,7 @@ Developer · Student · Kolkata, India
       <ul>
         <li><strong><a href="https://github.com/Kalpajit0406/math-app-backend">math-app-backend</a></strong>: Backend services for math app.</li>
         <li><strong><a href="https://github.com/Kalpajit0406/MathswithSD">MathswithSD</a></strong>: Interactive math platform.</li>
-        <li><strong><a href="https://github.com/Kalpajit0406/Mathswithsd_admin">Mathswithsd_admin</a></strong>: Admin console for math platform.</li>
+        <li><strong><a href="https://github.com/Kalpajit0406/Mathswithsd_admin">Mathswithsd_admin</a></strong>: Admin app for math platform.</li>
         <li><strong><a href="https://github.com/Kalpajit0406/Simulation_main-main">Simulation_main-main</a></strong>: Physics and mathematics simulation project.</li>
         <li><strong><a href="https://github.com/Kalpajit0406/steller-challenge">steller-challenge</a></strong>: Stellar challenge submission.</li>
       </ul>
