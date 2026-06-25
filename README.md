@@ -23,4 +23,6 @@ Contact me on:
 
 ---
 
-<video src="assets/video.mp4" poster="assets/video.jpg" width="100%" autoplay loop muted controls></video>
+### 🎥 [Watch Spotlight Video](assets/video.mp4)
+
+[![Spotlight Video](assets/video.jpg)](assets/video.mp4)
