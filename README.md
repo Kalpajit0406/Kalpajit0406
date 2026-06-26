@@ -13,7 +13,7 @@ Developer · Student · Kolkata, India
   <tr>
     <td width="55%" valign="top">
       <h2>About me</h2>
-      <p>Computer Science & Engeneering student at <strong>Techno India University, Newtown</strong>.</p>
+      <p>Computer Science & Engeneering student at <strong>Techno India International, Newtown</strong>.</p>
       <p>A builder here! Passionate about building software, math utilities, and interactive simulations.</p>
       <h3>🛠️ Previous Projects</h3>
       <ul>
